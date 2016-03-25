@@ -1,3 +1,4 @@
+#!/usr/bin/perl
 use Image::ExifTool qw(:Public);
 use strict;
 use Getopt::Std;
