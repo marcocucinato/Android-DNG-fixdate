@@ -1,4 +1,4 @@
-# Android_DNG_fixdate
+# Android-DNG-fixdate
 ## Fix the timestamps in DNG files gnerated by the Android Camera2 API
 
 This is a Perl / ExifTool script to fix the files created by the Android Camera2 DNG API.
