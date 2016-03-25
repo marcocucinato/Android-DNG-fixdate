@@ -5,7 +5,7 @@ use Getopt::Std;
 use File::Copy qw(cp);
 
 $Getopt::Std::STANDARD_HELP_VERSION = 1;
-our $VERSION = 0.1;
+our $VERSION = 1.0.0;
 
 
 my %options=();
